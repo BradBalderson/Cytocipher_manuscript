@@ -14,8 +14,7 @@ Reproduces analyses for Cytocipher manuscript.
 ## Quick index
 Quick explanation of respository structure.
 
-For information on individual jupyter notebooks, see 
-[docs/index.md]().
+For information on individual jupyter notebooks, see [docs/index.md](https://github.com/BradBalderson/Cytocipher_manuscript/blob/main/docs/index.md).
 
 scripts/
 
