@@ -23,7 +23,7 @@ scripts/
         
     X2_e18_hypo_neurons/
         -> Code for analysis of hypothalamus E18.5 neurons, from paper:
-           [B. Yaghemaian, B. Balderson, et al. (2022)](doi.org/10.1242/dev.200076)
+           B. Yaghemaian, B. Balderson, et al. (2022) doi.org/10.1242/dev.200076
 
     X3_pbmc3k/
         -> Code for automatic download and analysis of 10X PBMC 3K data.
