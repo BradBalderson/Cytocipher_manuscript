@@ -1,0 +1,6 @@
+cytocipher
+jupyterlab
+tabulate
+upsetplot
+scvelo==0.2.4
+matplotlib-venn

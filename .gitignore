@@ -1,1 +1,4 @@
+*-checkpoint.ipynb
+*.cpython-38.pyc
+.DS_Store
 .idea/
