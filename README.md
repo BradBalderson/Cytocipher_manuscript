@@ -1,6 +1,6 @@
 # Cytocipher Manuscript code
 
-Reproduces analyses for Cytocipher manuscript.
+Reproduces analyses for the [Cytocipher manuscript](https://www.biorxiv.org/content/10.1101/2022.08.12.503759v2).
 
 ## Installation and Getting started
 
